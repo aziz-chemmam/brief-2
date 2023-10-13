@@ -1,0 +1,25 @@
+body{
+        
+    background-image: url(../assiet/randonneurs-rocher.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li a{
+    display: flex;
+    margin-left: 30px;
+    padding-top:0px;
+    color: rgb(0, 0, 0);        
+}
+.n1 img{
+    opacity: 0.7;
+}
+.n2 img{
+    opacity: 0.7;
+}
+.n3 img{
+    opacity: 0.7;
+}
+.footer{
+    margin-top: 70px;
+}
